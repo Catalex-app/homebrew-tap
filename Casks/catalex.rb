@@ -1,6 +1,6 @@
 cask "catalex" do
-  version "0.1.0"
-  sha256 "879bdf43f76b147d4e53b1410778fd3ac7e0fb845156dd72d5c4f9abde2c71d2"
+  version "0.1.1"
+  sha256 "c0fbffc88aba87c7f73c8eca6e078cc70c0b8011c64b90a934efd93dc464c066"
 
   url "https://github.com/Catalex-app/Catalex/releases/download/v#{version}/Catalex-#{version}-arm64.dmg",
       verified: "github.com/Catalex-app/Catalex/"
